@@ -1,7 +1,5 @@
 package cl.duoc.usuarioMS.config;
 
-package cl.duoc.usuarioMS.config;
-
 import cl.duoc.usuarioMS.model.Usuario;
 import cl.duoc.usuarioMS.repository.UsuarioRepository;
 import org.springframework.boot.CommandLineRunner;
