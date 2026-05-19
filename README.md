@@ -65,4 +65,6 @@ Configurar application.properties
 Ejecutar UsuarioMsApplication.java
 Probar endpoints en Postman
 
+Carla Acuña
+
 Desarrollo Fullstack I - Duoc UC
